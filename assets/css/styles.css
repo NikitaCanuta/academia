@@ -1,4 +1,4 @@
-/*   
+/*
  * Template Name: Velocity - Responsive Website Template for Products
  * Version: 1.6
  * Author: Xiaoying Riley at 3rd Wave Media
@@ -214,8 +214,7 @@ select {
   display: inline-block;
   text-align: center;
   line-height: 1.4;
-  max-width: 155px;
-  background: #ec6952;
+  background: #3D013D;
   -webkit-border-top-right-radius: 0;
   -webkit-border-bottom-right-radius: 4px;
   -webkit-border-bottom-left-radius: 4px;
@@ -273,7 +272,7 @@ select {
   margin-right: 15px;
 }
 .header .main-nav .nav .nav-item.active a {
-  color: #ec6952;
+  color: #3D013D;
   background: none;
   font-weight: bold;
 }
@@ -285,14 +284,14 @@ select {
   font-size: 13px;
 }
 .header .main-nav .nav .nav-item.nav-item-cta a.btn-cta-secondary:hover {
-  border: 1px solid #ec6952;
-  background: #ec6952;
+  border: 1px solid #3D013D;
+  background: #3D013D;
 }
 .header .main-nav .nav .nav-item a {
   color: #fff;
 }
 .header .main-nav .nav .nav-item a:hover {
-  color: #ec6952;
+  color: #9F7BA6;
   background: none;
 }
 .header .main-nav .nav .nav-item a:focus {
@@ -304,7 +303,7 @@ select {
   background: none;
 }
 .header .main-nav .nav .nav-item.active {
-  color: #ec6952;
+  color: #9F7BA6;
 }
 .header .main-nav .nav .nav-item.last {
   margin-right: 0;
@@ -815,7 +814,7 @@ select {
   color: #fff;
 }
 .cta-section .counting {
-  color: #ec6952;
+  color: #3D013D;
   font-weight: bold;
   -webkit-opacity: 1;
   -moz-opacity: 1;
@@ -887,7 +886,7 @@ select {
   margin-bottom: 10px;
 }
 .features-tabbed .tab-content .desc ul .fa {
-  color: #ec6952;
+  color: #3D013D;
   margin-right: 5px;
 }
 .features-tabbed .tab-content .desc blockquote {
@@ -922,7 +921,7 @@ select {
   color: #b3b3b3;
 }
 .features-tabbed .tab-content .figure .figure-caption a:hover {
-  color: #ec6952;
+  color: #3D013D;
 }
 .nav-tabs {
   border: none;
@@ -989,15 +988,15 @@ select {
   background: #f5f5f5;
 }
 .nav-tabs > li.active {
-  border-top-color: #ec6952;
+  border-top-color: #3D013D;
   border-bottom-color: #fff;
 }
 .nav-tabs > li.active > a {
-  color: #ec6952;
+  color: #3D013D;
   background: #fff;
-  -webkit-box-shadow: inset 0 3px 0 #ec6952;
-  -moz-box-shadow: inset 0 3px 0 #ec6952;
-  box-shadow: inset 0 3px 0 #ec6952;
+  -webkit-box-shadow: inset 0 3px 0 #3D013D;
+  -moz-box-shadow: inset 0 3px 0 #3D013D;
+  box-shadow: inset 0 3px 0 #3D013D;
   border: none;
 }
 .nav-tabs > li.active > a:hover,
@@ -1007,7 +1006,7 @@ select {
 .nav-tabs > li.active:hover > a {
   border-top: 0;
   border: none;
-  color: #ec6952;
+  color: #3D013D;
 }
 .nav-tabs > li.last {
   border-right: 1px solid #eee;
@@ -1046,7 +1045,7 @@ select {
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
   text-align: center;
-  background: #ec6952;
+  background: #3D013D;
   border: 5px solid #f19180;
   color: #fff;
   margin: 0 auto;
@@ -3286,7 +3285,7 @@ select {
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    color: #ec6952;
+    color: #3D013D;
     background: #fff;
     padding-left: 0;
     padding-top: 25px;
@@ -3298,8 +3297,8 @@ select {
     opacity: 1;
   }
   .header.scrolled .main-nav .nav .nav-item.nav-item-cta a.btn-cta-secondary {
-    background: #ec6952;
-    border-color: #ec6952;
+    background: #3D013D;
+    border-color: #3D013D;
   }
   .header.scrolled .main-nav .nav .dropdown-menu a {
     color: #fff;
