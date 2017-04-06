@@ -1,3 +1,9 @@
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: #fff;
+}
 .typed-cursor{
     opacity: 1;
     -webkit-animation: blink 0.7s infinite;
@@ -20,7 +26,7 @@
     100% { opacity:1; }
 }
 
-.title{
+.titulo{
   font-family: 'Patua One';
   margin-top: 5vh;
   font-weight: bold;
@@ -50,4 +56,39 @@
   font-weight: bold;
   font-size: 2.5em;
   color: #fff;
+}
+
+.nosotros-section{
+  background-color: #fff;
+  margin: 0;
+  text-align: center;
+  border-top: 2rem solid #3D013D;
+}
+
+.btn-xl {
+    color: #fff;
+    background-color: #3D013D;
+    border-color: #3D013D;
+    border-radius: 3px;
+    font-size: 18px;
+    padding: 20px 40px;
+}
+.introduccion1{
+  font-family: 'Patua One';
+  font-weight: bold;
+  font-size: 2.5em;
+  color: #3D013D;
+  margin-top: 5vh;
+}
+
+hr.light{
+  border-color: #81A8B8;
+  border-width: thick;
+  max-width: 90%;
+}
+
+p.texto{
+  padding: 5px 5px 5px 5px;
+  color: #000;
+  font-size: 1.5em;
 }
