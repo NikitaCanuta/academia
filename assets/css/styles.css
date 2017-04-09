@@ -51,14 +51,14 @@ a.btn-cta,
 }
 a.btn-cta-primary,
 .btn-cta-primary {
-  background: #ec6952;
-  border: 2px solid #ec6952;
+  background: #3D013D;
+  border: 2px solid #3D013D;
   color: #fff;
 }
 a.btn-cta-primary:hover,
 .btn-cta-primary:hover {
-  background: #e9553b;
-  border: 2px solid #e9553b;
+  background: rgba(61, 1, 61, .7);
+  border: 2px solid rgba(61, 1, 61, .7);
   color: #fff;
 }
 a.btn-cta-secondary,
@@ -415,20 +415,7 @@ select {
   -o-background-size: cover;
   background-size: cover;
 }
-.bg-slider-wrapper .flexslider .slide.slide-2 {
-  background: #253340 url('../images/background/bg-header-2.jpg') no-repeat 50% top;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-.bg-slider-wrapper .flexslider .slide.slide-3 {
-  background: #253340 url('../images/background/bg-header-3.jpg') no-repeat 50% top;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+
 .bg-slider-wrapper .flexslider .flex-control-nav {
   z-index: 30;
   bottom: 30px;
@@ -452,15 +439,7 @@ select {
   -o-background-size: cover;
   background-size: cover;
 }
-.headline-bg.pricing-headline-bg {
-  background-image: url('../images/background/bg-header-small-2.jpg');
-}
-.headline-bg.contact-headline-bg {
-  background-image: url('../images/background/bg-header-small-3.jpg');
-}
-.headline-bg.about-headline-bg {
-  background-image: url('../images/background/bg-header-small-4.jpg');
-}
+
 /* ======= Promo ======= */
 .promo {
   padding-top: 120px;
@@ -1407,10 +1386,10 @@ select {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  border: 1px solid #eee;
+  border: 1px solid rgba(61, 1, 61, .7);
   -webkit-box-shadow: 0 4px 1px rgba(0, 0, 0, 0.05);
   -moz-box-shadow: 0 4px 1px rgba(0, 0, 0, 0.05);
-  box-shadow: 0 4px 1px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 4px 1px rgba(61, 1, 61, .7);
 }
 .contact-section .contact-form .error {
   color: #ec6952;

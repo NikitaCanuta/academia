@@ -29,6 +29,7 @@ a:hover{
 .titulo{
   font-family: 'Patua One';
   margin-top: 5vh;
+  color: #fff;
   font-weight: bold;
   text-transform: capitalize;
   font-size: 3em;
@@ -38,6 +39,7 @@ a:hover{
 .title1{
   font-family: 'Patua One';
   margin-top: 2vh;
+  color: #fff;
   font-weight: bold;
   text-transform: capitalize;
   font-size: 4em;
@@ -90,6 +92,7 @@ a:hover{
   font-family: 'Patua One';
   font-weight: bold;
   font-size: 2.5em;
+  text-transform: uppercase;
   color: #3D013D;
   margin-top: 5vh;
 }
@@ -140,6 +143,16 @@ p.texto{
     top: 50%;
     transform: translateY(-50%);
 }
+.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category{
+  font-family: 'Patua One';
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category1{
+  font-family: 'Pacifico';
+  font-size: 1.5em;
+  font-weight: bold;
+}
 
 .iconos{
     width: 10em;
@@ -149,4 +162,9 @@ p.texto{
     opacity: 1;transform: scale(1);
     opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s;
     transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s;
+}
+
+.input-stylos, .input-stylos:focus{
+  border: solid 2px #3D013D ;
+
 }
