@@ -515,6 +515,7 @@ select {
   background: #fff;
   z-index: 20;
   position: relative;
+  width: 100%;
 }
 .section .intro {
   max-width: 700px;
@@ -1458,7 +1459,7 @@ select {
   position: absolute;
   left: 0;
   top: 0;
-  background: #ec6952;
+  background: #3D013D;
   color: #fff;
   width: 60px;
   height: 100%;
