@@ -1473,8 +1473,8 @@ select {
 }
 /* ======= Map section ======= */
 .map-section {
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 10px;
+  padding-bottom: 50px;
 }
 .map-section .title {
   font-size: 36px;
@@ -2451,7 +2451,7 @@ select {
 }
 /* ======= Footer ======= */
 .footer {
-  background: #253340;
+  background: #193651;
   color: #fff;
   padding-top: 40px;
   font-size: 14px;

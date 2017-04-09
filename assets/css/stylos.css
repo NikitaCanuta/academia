@@ -98,13 +98,13 @@ a:hover{
 }
 
 hr.light{
-  border-color: #81A8B8;
+  border-color: #193651;
   border-width: thick;
   max-width: 90%;
   padding:40px;
 }
 .bg-dark{
-  background: #253340;
+  background: #193651;
   border-radius: 30px;
   border: solid 7px #3D013D ;
 }
@@ -119,7 +119,17 @@ p.texto{
   color: #000;
   font-size: 1.5em;
 }
-
+p.texto1{
+  padding: 5px 5px 5px 5px;
+  color: #000;
+  font-size: 1.2em;
+}
+h3.title3{
+  color: #193651;
+  font-weight: bold;
+  font-family: 'Patua One';
+  font-size: 2em;
+}
 .portfolio-box:hover .portfolio-box-caption {
     opacity: 1;
 }
