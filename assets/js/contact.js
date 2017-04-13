@@ -4,7 +4,6 @@ $(document).ready(function() {
     /* Ref: http://jqueryvalidation.org/documentation/ */
     $("#contact-form").validate({
 		messages: {
-
 		    name: {
     			required: 'Porfavor Ingrese su nombre' //You can customise this message
 			},
@@ -14,10 +13,7 @@ $(document).ready(function() {
 			message: {
 				required: 'Por favor ingrese su mensaje' //You can customise this message
 			}
-
 		}
 
 	});
-
-
 });

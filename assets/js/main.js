@@ -18,11 +18,6 @@ $(document).ready(function() {
          }
     });
 
-    /* ======= jQuery Placeholder ======= */
-    /* Ref: https://github.com/mathiasbynens/jquery-placeholder */
-
-    $('input, textarea').placeholder();
-
     /* ======= FAQ accordion ======= */
     function toggleIcon(e) {
     $(e.target)
